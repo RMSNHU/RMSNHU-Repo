@@ -6,11 +6,11 @@ The application is a course registeration program. The user needs to choose 3 co
     
 - What did you do particularly well in developing this application?
 
-I think what I did the best in the development process of the application was
+I think what I did the best in the development process of the application was understanding exactly what I had to do and keeping the applicaiton's dveleopment realistic. I didn't have to go to crazy with the application, so I tried to keep it simple. I think I accomplished, although I could have possibly done a bit more.
 
 - Compare and contrast the Console and WPF application designs. What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
-a
+Console application designs are way more programmer-oriented in my opinion, and should be used with technical aspects like debugging. WPF designs should be used for actual UI and user-use. Using text, buttons, and list boxes were vital to give the user as much infomation and usability as possible. The UI is nothing special, but it does get the job done in an efficient matter.
 
 - How did you approach the process of debugging and coding your application? What techniques or strategies did you use? How could you use those techniques or strategies in the future?
 
@@ -18,4 +18,4 @@ My debugging and coding process was pretty standard. I checked what went wrong w
 
 - Where did you have to be innovative to overcome a challenge in the full application development process?
 
-a
+To be honest, this project was relatively straightforward for me, so I didn't have too many big challenges. I think the biggest challenge I encountered was the wrong error appearing whenever a different error happened. To fix this, I just switched around the error preference order, so different errors appear before others.
